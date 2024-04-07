@@ -285,7 +285,7 @@ a{
         display: block;
     }
     .h-nav-resp{
-        height: 72px;
+        height: 1px;
     }
     .v-class-resp{
         opacity: 0;
@@ -348,5 +348,8 @@ a{
     .thumbnail1 img{
         width: 37vh;
         height: auto;
+    }
+    .line{
+        background-color:brown;
     }
 }
