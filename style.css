@@ -157,7 +157,7 @@ font-size: 25px;
     width: auto;
 }
 .thumbnail1 img{
-    width: 50vh;
+    width: 58vh;
     height: auto;
     border: 2px solid black;
     border-radius: 10px;
@@ -316,7 +316,7 @@ a{
         padding: 0px;
     }
     .secondHalf img{
-        width: 80%;
+        width: 100%;
         margin-top: 11vh;
     }
     .firstHalf{
@@ -356,5 +356,10 @@ a{
     .text-mini{
         display: flex;
         justify-content: center;
+    }
+    .thumbnail-about img{
+        width: 45vh;
+        height: auto;
+        border-radius: 50%;
     }
 }
