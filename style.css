@@ -10,11 +10,11 @@ html{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 5vh;
+    margin-left: 1vh;
     margin-right: 7vh;
 }
 .logo img{
-    width: 300%;
+    width: 9vh;
     border: 3px solid white;
     border-radius: 50px;
     margin: 5px;
